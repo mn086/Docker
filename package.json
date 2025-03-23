@@ -1,0 +1,10 @@
+{
+    "_comment": "Projektkonfigurationsdatei für node Projekte",
+    "name": "docker-node",
+    "version": "1.0.0",
+    "description": "Docker Node.js Beispiel Hello World",
+    "comment": "Unter dependencies soll eine 3rd party libary processenv eingebunden werden, die mit npm install processenv über den node package manager installiert werden muss",
+    "dependencies": {
+        "processenv": "3.0.9"
+    }
+}
